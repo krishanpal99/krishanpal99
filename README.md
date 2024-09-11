@@ -22,19 +22,71 @@
   <a href="mailto:kaypi.rajput@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+   <a href="https://www.instagram.com/happykaypi">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </p>
 
 ##  Top Skills:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=mysql"/>
   </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=kafka"/>
   </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=spring"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=azure"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=gcp"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=docker"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=elasticsearch"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=grafana"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=jenkins"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=kubernetes"/>
+</p>
 
 <br />
 
