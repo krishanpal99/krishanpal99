@@ -19,7 +19,22 @@
   <a href="https://www.linkedin.com/in/krishan1999/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:kaypi.rajput@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
+
+##  Top Skills:
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=kafka"/>
+  </a>
+</p>
+
 
 <br />
 
