@@ -13,4 +13,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like pizza and love to travel!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishanpal99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+🏆GitHub Profile Trophy:
+
+[![🏆trophy](https://github-profile-trophy.vercel.app/?username=krishanpal99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+📊 GitHub Stats:
+
+[![Krishapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishanpal99)](https://github.com/anuraghazra/github-readme-stats)
