@@ -13,6 +13,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like pizza and love to travel!
 
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://linkedin.com/in/krishanpal1999" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:kaypi.rajput@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
 🏆GitHub Profile Trophy:
 
 [![🏆trophy](https://github-profile-trophy.vercel.app/?username=krishanpal99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
