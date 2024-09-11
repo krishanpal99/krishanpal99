@@ -25,6 +25,9 @@
    <a href="https://www.instagram.com/happykaypi">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
+  <a href="https://x.com/krishraj1999/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 ##  Top Skills:
