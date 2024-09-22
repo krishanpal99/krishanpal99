@@ -4,7 +4,7 @@
 **krishanpal99/krishanpal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👋 You can call me Kp if you want 👀
+- 👋 You can call me KP 👀
 - 👀 I’m a Software Development Engineer at a Network Security Organization - AlgoSec.
 - 🌱 I’m currently pursuing Master of Technology at Indian Institute of Technology, Jodhpur (Rajasthan).
 - 👯  I’m looking to contribute to exciting projects, solve meaningful problems, and collaborate with talented teams.
